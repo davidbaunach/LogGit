@@ -4,4 +4,4 @@ Abstract: make use of git and publicly hosted repositories to distribute text, a
 
 The problem: we use a lot of resources with the client-server model
 
-The solution
+The solution: use the server as little as necessary
