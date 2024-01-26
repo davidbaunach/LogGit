@@ -1,0 +1,7 @@
+LogGit: using Git to achieve local-first, offline-first, p2p, decentralized, verifiable, editable, content distribution.
+
+Abstract: make use of git and publicly hosted repositories to distribute text, audio, images, and video.
+
+The problem
+
+The solution
