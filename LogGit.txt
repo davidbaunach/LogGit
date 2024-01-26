@@ -2,6 +2,6 @@ LogGit: using Git to achieve local-first, offline-first, p2p, decentralized, ver
 
 Abstract: make use of git and publicly hosted repositories to distribute text, audio, images, and video.
 
-The problem
+The problem: we use a lot of resources with the client-server model
 
 The solution
