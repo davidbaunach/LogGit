@@ -1,8 +1,8 @@
 How To LogGit:
 
-Step 1. Host the repository to your website or whatever you want to share publically on Github or something.
+Step 1. Host the repository to your website or whatever you want to share publicly on Github or something.
 
-Step 2. If you can, place the logo and the url to clone that repo prominently on the site or whatever it is you're sharing.
+Step 2. If you can, place the logo and the url to clone that repository prominently on the site or whatever it is you're sharing.
 
 Step 3. Tell your friends they can get your project via LogGit.
 
