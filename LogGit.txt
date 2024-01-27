@@ -2,6 +2,16 @@ LogGit: using Git to achieve local-first, offline-first, p2p, decentralized, ver
 
 Abstract: make use of git and publicly hosted repositories to distribute text, audio, images, and video.
 
-The problem: we use a lot of resources with the client-server model
+The problem: we use a lot of resources with the client-server model, and once the connection goes down, only sadness remains.
 
-The solution: use the server as little as necessary
+The solution: use the server as little as necessary, do as much as you can on your device.
+
+Use Git.
+
+Version control, yes, but more importantly, already optimized for p2p and sneakernet.
+
+It allows for collaboration.
+
+You can take a project someone else started, and finish it.
+
+There's already a whole bunch of gui programs available on all major operating systems to track and manage repositories, nothing needs to be built to start. It's ready to go.
