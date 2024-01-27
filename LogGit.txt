@@ -15,3 +15,11 @@ It allows for collaboration.
 You can take a project someone else started, and finish it.
 
 There's already a whole bunch of gui programs available on all major operating systems to track and manage repositories, nothing needs to be built to start. It's ready to go.
+
+Most people are hosting their repo on some Git forge already, you can track it down, or maybe more people can start sharing the url to clone the repo.
+
+Git does have size limitations: so you need to break up bigger projects.
+
+And even before you get to those, in order to make it easier to clone, keeping projects small and modular helps keep things manageable.
+
+You're already doing cool stuff, just start sharing it with Git; and RSS, ATOM, siloed social networks, and unwieldy Wordpress blogs become an unecessary relic of a more fragile past.
