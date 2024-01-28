@@ -1,0 +1,3 @@
+End goal: a readme with the basics, a index.html doc with the basics, and links to other docs necessary (archive of solderpunks essay, a longer whitepaper, a roadmap, and anything else that pops up)
+
+Keep it simple and fun, this is not a new idea, I'm just trying to make it approachable with a name, a logo, and some basic instructions on what can be done to make it more accessible and visible.
